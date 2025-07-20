@@ -11,7 +11,7 @@ My CodePen portfolio — a collection of interactive front-ends, UI prototypes, 
 🧩 Canvas-based interactive pieces  
 
 ## 🛠 Tech 
-• HTML5 / CSS, SCSS, Sass, Less / Tailwind CSS, Vanilla Bootsrtap  
+• HTML5 / CSS, SCSS, Sass, Less / Tailwind CSS, Vanilla, Bootsrtap  
 • JavaScript   
 • GSAP, Anime.js, Canvas API  
 • Accessibility-friendly markup  
