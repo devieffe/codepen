@@ -1,4 +1,4 @@
-# Dev Ieffe - CodePen portfolio
+# Dev Ieffe - CodePen 
 
 My CodePen portfolio — a collection of interactive front-ends, UI prototypes, and micro-interactions built with HTML, CSS (mainly in Tailwin, Vanilla, Bootstrap), and JavaScript (GSAP, Canvas).
 
