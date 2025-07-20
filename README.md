@@ -10,16 +10,20 @@ My CodePen portfolio — a collection of interactive front-ends, UI prototypes, 
 ⚡️ Micro-interactions – hover effects, animations, and transitions  
 🧩 Canvas-based interactive pieces  
 
-## 🛠 Tech Stack
+## 🛠 Tech stack
 • HTML5 / CSS, SCSS, Sass, Less / Tailwind CSS, Vanilla Bootsrtap  
 • JavaScript   
 • GSAP, Anime.js, Canvas API  
 • Accessibility-friendly markup  
 
-## 📌 Featured Pens
+## 📌 Featured pens
 ✅ Typing Effects – Fluid text animation using React & CSS  
 🌑 Dark Mode Prototypes – Accessible and elegant themes  
 🧪 Experimental Layouts – Grid/flex mashups, retro UI, brutalist CSS  
 🎮 ZX Spectrum-inspired UI – Retro pixel-style design and interactions  
+
+## URL
+
+https://codepen.io/devieffe  
 
 💡 This CodePen serves as a design sketchbook — expect raw ideas, polished patterns, and experiments that may later evolve into full apps or npm packages.
