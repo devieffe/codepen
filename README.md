@@ -26,4 +26,5 @@ My CodePen portfolio — a collection of interactive front-ends, UI prototypes, 
 
 https://codepen.io/devieffe  
 
+  
 💡 This CodePen serves as a design sketchbook — expect raw ideas, polished patterns, and experiments that may later evolve into full apps or npm packages.
