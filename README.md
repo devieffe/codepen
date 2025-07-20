@@ -10,7 +10,7 @@ My CodePen portfolio — a collection of interactive front-ends, UI prototypes, 
 ⚡️ Micro-interactions – hover effects, animations, and transitions  
 🧩 Canvas-based interactive pieces  
 
-## 🛠 Tech stack
+## 🛠 Tech 
 • HTML5 / CSS, SCSS, Sass, Less / Tailwind CSS, Vanilla Bootsrtap  
 • JavaScript   
 • GSAP, Anime.js, Canvas API  
@@ -22,7 +22,7 @@ My CodePen portfolio — a collection of interactive front-ends, UI prototypes, 
 🧪 Experimental Layouts – Grid/flex mashups, retro UI, brutalist CSS  
 🎮 ZX Spectrum-inspired UI – Retro pixel-style design and interactions  
 
-## URL
+## 🧑‍💻 URL
 
 https://codepen.io/devieffe  
 
