@@ -1,29 +1,28 @@
 # Dev Ieffe - CodePen 
 
-My CodePen portfolio — a collection of interactive front-ends, UI prototypes, and micro-interactions built with HTML, CSS (mainly in Tailwin, Vanilla, Bootstrap), and JavaScript (GSAP, Canvas).
+My Codepen portfolio — a collection of interactive front-ends, UI prototypes, and micro-interactions built with HTML/SCSS (mainly in Tailwind, Bootstrap), and JavaScript (GSAP, Vanilla, Canvas).
 
 ## ✨ What's in stack
-🗒️ Concept demos – ideas for UI/UX, typography, layout, and dark mode  
-🔁 Reusable code patterns – minimal, clean, and developer-friendly  
+🗒️ Concept demos – ideas for UI/UX, layout, and dark mode  
+🔁 Reusable code patterns – minimal, and developer-friendly  
 💻 CSS mock ups of computer tech (laptops, tablets, smartphones)  
-🎨 Modern UI components – buttons, cards, loaders, and more  
+🎨 Modern UI components and CSS drawings – buttons, cards, loaders, and more  
 ⚡️ Micro-interactions – hover effects, animations, and transitions  
 🧩 Canvas-based interactive pieces  
 
 ## 🛠 Tech 
-• HTML5 / CSS, SCSS, Sass, Less / Tailwind CSS, Vanilla, Bootsrtap  
-• JavaScript   
-• GSAP, Anime.js, Canvas API  
+• HTML5 / CSS-SCSS-Sass-Less / Tailwind-Bootsrtap  
+• JavaScript
+• GSAP, Vanilla.js, Anime.js, Canvas API  
 • Accessibility-friendly markup  
 
 ## 📌 Featured pens
-✅ Typing Effects – Fluid text animation using React & CSS  
+🧪 Experimental Layouts – Grid/flex mashups, retro UI, brutalist CSS
+🌑 Minimalist and accurate UI – Light-weight design and code  
 🌑 Dark Mode Prototypes – Accessible and elegant themes  
-🧪 Experimental Layouts – Grid/flex mashups, retro UI, brutalist CSS  
 🎮 ZX Spectrum-inspired UI – Retro pixel-style design and interactions  
 
 ## 🧑‍💻 URL
-
 https://codepen.io/devieffe  
 
   
